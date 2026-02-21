@@ -1,0 +1,5 @@
+{
+  "name": "GeoExr Free: Open Landscape Exporter",
+  "description": "Select an area on OpenStreetMap and export its elevation data as a high-dynamic-range .exr file using free public APIs.",
+  "requestFramePermissions": ["geolocation"]
+}
